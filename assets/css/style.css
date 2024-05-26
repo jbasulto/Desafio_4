@@ -1,0 +1,31 @@
+body{
+background-color: black;
+color: white;
+/* font-family: Mio; */
+font-family: 'Roboto', sans-serif;;
+}
+@font-face {
+    font-family: 'Mio';
+    src: url('../webfonts/fa-brands-400.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+  }
+  .box{
+    background-color: blue;
+    border: 1px solid;
+    /* margin: 1px; */
+    text-align: center;
+    height: 100px;
+  }
+  .nav{
+    background-color: green;
+  }
+ .titulo{
+    text-align: left;
+ }
+ .contacto{
+    background-color: green;
+ }
+ .list-group{
+    text-align: right;
+ }
